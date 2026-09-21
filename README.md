@@ -9,8 +9,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-operational-f0b429?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/scope-authorized%20only-f0b429?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://komarev.com/ghpvc/?username=kiurakku&style=for-the-badge&color=f0b429&label=RECON" />
-  <a href="https://github.com/kiurakku?tab=followers"><img src="https://img.shields.io/github/followers/kiurakku?style=for-the-badge&color=f0b429&labelColor=0d1117&label=FOLLOWERS" /></a>
+  <img src="https://komarev.com/ghpvc/?username=thefear078&style=for-the-badge&color=f0b429&label=RECON" />
+  <a href="https://github.com/thefear078?tab=followers"><img src="https://img.shields.io/github/followers/thefear078?style=for-the-badge&color=f0b429&labelColor=0d1117&label=FOLLOWERS" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:f0b429,100:0d1117&height=3&section=header" width="100%" />
@@ -81,8 +81,8 @@
 
 <p align="center">
   <a href="https://hackerone.com/cloud9s"><img src="https://img.shields.io/badge/HackerOne-0d1117?style=for-the-badge&logo=hackerone&logoColor=F0B429" /></a>
-  <a href="https://github.com/kiurakku"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=F0B429" /></a>
-  <a href="https://t.me/thefear007"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=F0B429" /></a>
+  <a href="https://github.com/thefear078"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=F0B429" /></a>
+  <a href="https://t.me/thefear078"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=F0B429" /></a>
 </p>
 
 <div align="center">
